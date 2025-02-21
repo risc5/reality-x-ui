@@ -18,7 +18,7 @@ Follow the steps, input the username, password, and the port number. Finally, yo
 # BBR
 
 ```bash
- bash bbr2.sh
+ ./bbr2.sh
 ```
 
 # Reference
