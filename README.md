@@ -3,7 +3,7 @@
 ## Clone the repo
 
 ```bash
-git clone https://github.com/alexunder/reality-x-ui.git
+git clone https://github.com/risc5/reality-x-ui.git
 ```
 
 # Run the install script
